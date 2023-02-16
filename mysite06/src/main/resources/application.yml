@@ -1,0 +1,11 @@
+#Spring Configuration
+spring:
+   application:
+      name: mysite
+   devtools:
+      livereload:
+         enabled: true
+
+# server
+server:
+   port: 8080
